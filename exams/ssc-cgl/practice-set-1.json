@@ -1,0 +1,409 @@
+{
+  "id": "ssc-cgl-practice-1",
+  "exam": "ssc-cgl",
+  "year": 2026,
+  "title": "SSC CGL Practice Set 1 (original questions)",
+  "demo": true,
+  "questions": [
+    {
+      "id": "ssc-cgl-p1-q01",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "Quantitative Aptitude",
+      "topic": "Percentages",
+      "question": "The price of sugar rises by 25%. By what percentage must a family reduce its sugar consumption so that its expenditure on sugar stays the same?",
+      "options": [
+        "20%",
+        "25%",
+        "16.67%",
+        "22%"
+      ],
+      "answerIndex": 0,
+      "explanation": "Reduction needed = r/(100 + r) × 100 = 25/125 × 100 = 20%. Shortcut: a 25% (= 1/4) rise needs a 1/5 cut in consumption, i.e. 20%."
+    },
+    {
+      "id": "ssc-cgl-p1-q02",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "Quantitative Aptitude",
+      "topic": "Average",
+      "question": "The average of five numbers is 36. When one of the numbers is removed, the average of the remaining four numbers becomes 33. What is the number that was removed?",
+      "options": [
+        "42",
+        "45",
+        "48",
+        "51"
+      ],
+      "answerIndex": 2,
+      "explanation": "Sum of five numbers = 5 × 36 = 180. Sum of remaining four = 4 × 33 = 132. Removed number = 180 − 132 = 48."
+    },
+    {
+      "id": "ssc-cgl-p1-q03",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "Quantitative Aptitude",
+      "topic": "Ratio & Proportion",
+      "question": "₹7,200 is divided among A, B and C in the ratio 2 : 3 : 4. By how much does C's share exceed A's share?",
+      "options": [
+        "₹1,200",
+        "₹1,600",
+        "₹2,400",
+        "₹800"
+      ],
+      "answerIndex": 1,
+      "explanation": "Total parts = 2 + 3 + 4 = 9, so one part = 7200 ÷ 9 = ₹800. C − A = (4 − 2) parts = 2 × 800 = ₹1,600."
+    },
+    {
+      "id": "ssc-cgl-p1-q04",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "Quantitative Aptitude",
+      "topic": "Time & Work",
+      "question": "A can complete a piece of work in 12 days and B can complete the same work in 18 days. In how many days can they complete the work if they work together?",
+      "options": [
+        "6 days",
+        "7.5 days",
+        "15 days",
+        "7.2 days"
+      ],
+      "answerIndex": 3,
+      "explanation": "Combined one-day work = 1/12 + 1/18 = 3/36 + 2/36 = 5/36. Time = 36/5 = 7.2 days. Shortcut: together time = (12 × 18)/(12 + 18) = 216/30 = 7.2 days."
+    },
+    {
+      "id": "ssc-cgl-p1-q05",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "Quantitative Aptitude",
+      "topic": "Mensuration",
+      "question": "What is the area of a circle of radius 14 cm? (Take π = 22/7)",
+      "options": [
+        "88 cm²",
+        "308 cm²",
+        "616 cm²",
+        "1232 cm²"
+      ],
+      "answerIndex": 2,
+      "explanation": "Area = πr² = (22/7) × 14 × 14 = 22 × 28 = 616 cm². Note that 88 cm is the circumference (2πr), a common slip."
+    },
+    {
+      "id": "ssc-cgl-p1-q06",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "Quantitative Aptitude",
+      "topic": "Algebra",
+      "question": "If x + 1/x = 5, what is the value of x² + 1/x²?",
+      "options": [
+        "25",
+        "23",
+        "27",
+        "21"
+      ],
+      "answerIndex": 1,
+      "explanation": "Square both sides: x² + 2 + 1/x² = 25, so x² + 1/x² = 25 − 2 = 23. Remember: (x + 1/x)² − 2 gives x² + 1/x²."
+    },
+    {
+      "id": "ssc-cgl-p1-q07",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "Quantitative Aptitude",
+      "topic": "Trigonometry",
+      "question": "If tan θ = 3/4 and θ is an acute angle, what is the value of sin θ + cos θ?",
+      "options": [
+        "1",
+        "5/4",
+        "12/25",
+        "7/5"
+      ],
+      "answerIndex": 3,
+      "explanation": "tan θ = 3/4 means opposite = 3, adjacent = 4, so hypotenuse = 5 (a 3-4-5 triangle). sin θ = 3/5 and cos θ = 4/5, so the sum is 7/5."
+    },
+    {
+      "id": "ssc-cgl-p1-q08",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "Reasoning",
+      "topic": "Coding-Decoding",
+      "question": "In a certain code language, MANGO is written as OCPIQ. How will GRAPE be written in that code language?",
+      "options": [
+        "HSBQF",
+        "ITBRG",
+        "ITCRG",
+        "ITCQG"
+      ],
+      "answerIndex": 2,
+      "explanation": "Each letter is moved two places forward: M→O, A→C, N→P, G→I, O→Q. Applying the same rule: G→I, R→T, A→C, P→R, E→G, giving ITCRG."
+    },
+    {
+      "id": "ssc-cgl-p1-q09",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "Reasoning",
+      "topic": "Number Series",
+      "question": "Find the next number in the series: 3, 8, 18, 38, 78, ?",
+      "options": [
+        "158",
+        "156",
+        "160",
+        "148"
+      ],
+      "answerIndex": 0,
+      "explanation": "Each term = previous term × 2 + 2: 3×2+2 = 8, 8×2+2 = 18, 18×2+2 = 38, 38×2+2 = 78. Next = 78 × 2 + 2 = 158. Check: the differences 5, 10, 20, 40 double each time, so the next difference is 80."
+    },
+    {
+      "id": "ssc-cgl-p1-q10",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "Reasoning",
+      "topic": "Analogy",
+      "question": "Select the number that is related to the third number in the same way as the second number is related to the first number.\n7 : 50 :: 9 : ?",
+      "options": [
+        "81",
+        "82",
+        "80",
+        "90"
+      ],
+      "answerIndex": 1,
+      "explanation": "The rule is n² + 1: 7² + 1 = 50. So 9² + 1 = 82. Watch out for 81 (just n²) and 80 (n² − 1)."
+    },
+    {
+      "id": "ssc-cgl-p1-q11",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "Reasoning",
+      "topic": "Blood Relations",
+      "question": "Pointing to a man, Meera says, \"He is the only son of my mother's father.\" How is the man related to Meera?",
+      "options": [
+        "Maternal uncle",
+        "Father",
+        "Brother",
+        "Grandfather"
+      ],
+      "answerIndex": 0,
+      "explanation": "Meera's mother's father is her maternal grandfather. His only son is the brother of Meera's mother. So the man is Meera's maternal uncle."
+    },
+    {
+      "id": "ssc-cgl-p1-q12",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "Reasoning",
+      "topic": "Direction Sense",
+      "question": "Ravi walks 10 m towards the north, turns right and walks 6 m, then turns right again and walks 18 m. How far is he now from his starting point?",
+      "options": [
+        "8 m",
+        "14 m",
+        "12 m",
+        "10 m"
+      ],
+      "answerIndex": 3,
+      "explanation": "Take the start as (0, 0). After walking 10 m north he is at (0, 10). Turning right (east) for 6 m takes him to (6, 10), and turning right again (south) for 18 m takes him to (6, −8). Distance = √(6² + 8²) = √100 = 10 m."
+    },
+    {
+      "id": "ssc-cgl-p1-q13",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "Reasoning",
+      "topic": "Classification",
+      "question": "Find the odd one out: 27, 64, 125, 144, 216",
+      "options": [
+        "64",
+        "125",
+        "144",
+        "216"
+      ],
+      "answerIndex": 2,
+      "explanation": "27, 64, 125 and 216 are perfect cubes (3³, 4³, 5³, 6³). 144 is 12², a perfect square, but it is not a perfect cube."
+    },
+    {
+      "id": "ssc-cgl-p1-q14",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "English",
+      "topic": "Synonyms",
+      "question": "Select the word most similar in meaning to the given word.\nBENEVOLENT",
+      "options": [
+        "Kind",
+        "Cruel",
+        "Greedy",
+        "Timid"
+      ],
+      "answerIndex": 0,
+      "explanation": "Benevolent means well-meaning and kind. 'Cruel' is close to its opposite, and 'greedy' and 'timid' are unrelated."
+    },
+    {
+      "id": "ssc-cgl-p1-q15",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "English",
+      "topic": "Antonyms",
+      "question": "Select the word most opposite in meaning to the given word.\nSCARCE",
+      "options": [
+        "Rare",
+        "Meagre",
+        "Abundant",
+        "Scanty"
+      ],
+      "answerIndex": 2,
+      "explanation": "Scarce means insufficient or in short supply. Its opposite is abundant (plentiful). Rare, meagre and scanty are all near-synonyms of scarce."
+    },
+    {
+      "id": "ssc-cgl-p1-q16",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "English",
+      "topic": "Idioms & Phrases",
+      "question": "Select the most appropriate meaning of the idiom: To beat around the bush",
+      "options": [
+        "To work very hard",
+        "To avoid speaking directly about the main issue",
+        "To search everywhere",
+        "To defeat someone easily"
+      ],
+      "answerIndex": 1,
+      "explanation": "To beat around the bush means to avoid coming to the point. Example: Stop beating around the bush and tell me what happened."
+    },
+    {
+      "id": "ssc-cgl-p1-q17",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "English",
+      "topic": "One Word Substitution",
+      "question": "Select the word that can substitute the given phrase: A person who can speak two languages fluently",
+      "options": [
+        "Bilingual",
+        "Polyglot",
+        "Linguist",
+        "Bibliophile"
+      ],
+      "answerIndex": 0,
+      "explanation": "Bilingual means able to speak two languages. A polyglot knows several languages, a linguist studies languages, and a bibliophile loves books."
+    },
+    {
+      "id": "ssc-cgl-p1-q18",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "English",
+      "topic": "Subject-Verb Agreement",
+      "question": "Fill in the blank with the most appropriate option.\nNeither the manager nor his assistants ______ present at the meeting yesterday.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "has been"
+      ],
+      "answerIndex": 1,
+      "explanation": "With 'neither ... nor', the verb agrees with the subject closer to it. Here that is 'assistants' (plural), and 'yesterday' needs the past tense, so 'were' is correct."
+    },
+    {
+      "id": "ssc-cgl-p1-q19",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "English",
+      "topic": "Spelling",
+      "question": "Select the correctly spelt word.",
+      "options": [
+        "Acommodation",
+        "Accomodation",
+        "Acomodation",
+        "Accommodation"
+      ],
+      "answerIndex": 3,
+      "explanation": "The correct spelling is 'accommodation', with a double 'c' and a double 'm'. A handy check: the word is big enough to accommodate two c's and two m's."
+    },
+    {
+      "id": "ssc-cgl-p1-q20",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "General Awareness",
+      "topic": "Indian Polity",
+      "question": "Article 21 of the Constitution of India deals with which of the following?",
+      "options": [
+        "Protection of life and personal liberty",
+        "Equality before law",
+        "Abolition of untouchability",
+        "Freedom of religion"
+      ],
+      "answerIndex": 0,
+      "explanation": "Article 21 says no person shall be deprived of life or personal liberty except according to procedure established by law. Equality before law is Article 14, abolition of untouchability is Article 17, and freedom of religion is Article 25."
+    },
+    {
+      "id": "ssc-cgl-p1-q21",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "General Awareness",
+      "topic": "Modern Indian History",
+      "question": "In which year was the Battle of Plassey fought between the forces of the English East India Company and Nawab Siraj-ud-Daulah?",
+      "options": [
+        "1757",
+        "1764",
+        "1761",
+        "1526"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Battle of Plassey was fought in 1757, and Robert Clive led the Company's forces. 1764 is the Battle of Buxar, 1761 the Third Battle of Panipat, and 1526 the First Battle of Panipat."
+    },
+    {
+      "id": "ssc-cgl-p1-q22",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "General Awareness",
+      "topic": "Indian Geography",
+      "question": "Which river of peninsular India is popularly known as the 'Dakshin Ganga'?",
+      "options": [
+        "Krishna",
+        "Kaveri",
+        "Godavari",
+        "Mahanadi"
+      ],
+      "answerIndex": 2,
+      "explanation": "The Godavari is called the Dakshin Ganga (Ganga of the South) because it is the longest river of peninsular India. It rises at Trimbakeshwar in Maharashtra and flows into the Bay of Bengal."
+    },
+    {
+      "id": "ssc-cgl-p1-q23",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "General Awareness",
+      "topic": "Biology",
+      "question": "Deficiency of which vitamin causes scurvy?",
+      "options": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin B12",
+        "Vitamin C"
+      ],
+      "answerIndex": 3,
+      "explanation": "Scurvy is caused by a lack of Vitamin C (ascorbic acid) and causes bleeding gums. Vitamin A deficiency causes night blindness, and Vitamin D deficiency causes rickets."
+    },
+    {
+      "id": "ssc-cgl-p1-q24",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "General Awareness",
+      "topic": "Indian Economy",
+      "question": "In which year was the Reserve Bank of India established?",
+      "options": [
+        "1947",
+        "1935",
+        "1949",
+        "1969"
+      ],
+      "answerIndex": 1,
+      "explanation": "The RBI was set up on 1 April 1935 under the RBI Act, 1934. It was nationalised in 1949, and 14 major commercial banks were nationalised in 1969."
+    },
+    {
+      "id": "ssc-cgl-p1-q25",
+      "exam": "ssc-cgl",
+      "year": 2026,
+      "subject": "General Awareness",
+      "topic": "Art & Culture",
+      "question": "Kathakali is a classical dance form of which state?",
+      "options": [
+        "Tamil Nadu",
+        "Karnataka",
+        "Odisha",
+        "Kerala"
+      ],
+      "answerIndex": 3,
+      "explanation": "Kathakali comes from Kerala and is known for its elaborate make-up and costumes. Bharatanatyam is from Tamil Nadu and Odissi is from Odisha."
+    }
+  ]
+}

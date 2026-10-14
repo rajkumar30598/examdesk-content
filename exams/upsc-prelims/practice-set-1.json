@@ -1,0 +1,409 @@
+{
+  "id": "upsc-prelims-practice-1",
+  "exam": "upsc-prelims",
+  "year": 2026,
+  "title": "UPSC Prelims Practice Set 1 (original questions)",
+  "demo": true,
+  "questions": [
+    {
+      "id": "upsc-prelims-p1-q01",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "History",
+      "topic": "Ancient India – Harappan Civilisation",
+      "question": "Consider the following statements about the Harappan Civilisation:\n1. Harappan cities generally show planned layouts with covered drainage systems.\n2. The Harappans used iron extensively for making tools and weapons.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answerIndex": 0,
+      "explanation": "Statement 1 is correct: town planning and well-laid drains are hallmarks of Harappan cities such as Mohenjo-daro. Statement 2 is incorrect: the Harappan Civilisation was a Bronze Age culture, and iron came into wide use in India much later."
+    },
+    {
+      "id": "upsc-prelims-p1-q02",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "History",
+      "topic": "Ancient India – Religious Movements",
+      "question": "Consider the following statements:\n1. Vardhamana Mahavira is regarded as the 24th Tirthankara of Jainism.\n2. The First Buddhist Council was held at Rajagriha.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answerIndex": 2,
+      "explanation": "Both are correct. Jain tradition counts Mahavira as the 24th and last Tirthankara, with Parshvanatha as the 23rd. The First Buddhist Council was held at Rajagriha soon after the Buddha's death, under the patronage of Ajatashatru."
+    },
+    {
+      "id": "upsc-prelims-p1-q03",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "History",
+      "topic": "Modern India – Indian National Congress",
+      "question": "Consider the following statements regarding the Indian National Congress:\n1. Dadabhai Naoroji presided over its first session.\n2. Its first session was held in Bombay in 1885.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answerIndex": 1,
+      "explanation": "Statement 1 is incorrect: the first session was presided over by W. C. Bonnerjee. Dadabhai Naoroji presided over the second session (Calcutta, 1886). Statement 2 is correct: the first session was held in Bombay in December 1885."
+    },
+    {
+      "id": "upsc-prelims-p1-q04",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "History",
+      "topic": "Medieval India – Delhi Sultanate",
+      "question": "Which one of the following rulers of the Delhi Sultanate introduced a token currency of copper/brass coins?",
+      "options": [
+        "Alauddin Khalji",
+        "Balban",
+        "Firoz Shah Tughlaq",
+        "Muhammad bin Tughlaq"
+      ],
+      "answerIndex": 3,
+      "explanation": "Muhammad bin Tughlaq introduced token currency, but the experiment failed because of widespread forgery. Alauddin Khalji is known for his market control measures."
+    },
+    {
+      "id": "upsc-prelims-p1-q05",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "Geography",
+      "topic": "Indian Physical Geography",
+      "question": "Consider the following statements:\n1. The Western Ghats are, in general, higher and more continuous than the Eastern Ghats.\n2. The Narmada flows westward through a rift valley.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answerIndex": 2,
+      "explanation": "Both are correct. The Western Ghats form an almost unbroken chain, while the Eastern Ghats are lower and cut through by large east-flowing rivers. The Narmada (like the Tapi) flows west through a rift valley into the Arabian Sea."
+    },
+    {
+      "id": "upsc-prelims-p1-q06",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "Geography",
+      "topic": "Indian Drainage System",
+      "question": "Which one of the following rivers is a tributary of the Indus?",
+      "options": [
+        "Gomti",
+        "Son",
+        "Chambal",
+        "Chenab"
+      ],
+      "answerIndex": 3,
+      "explanation": "The Chenab is one of the five Punjab rivers (Jhelum, Chenab, Ravi, Beas, Sutlej) that join the Indus system. The Gomti and Son belong to the Ganga system, and the Chambal is a tributary of the Yamuna."
+    },
+    {
+      "id": "upsc-prelims-p1-q07",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "Geography",
+      "topic": "Indian Climate",
+      "question": "Consider the following statements:\n1. The Tamil Nadu coast receives a large part of its annual rainfall during October to December.\n2. 'Mango showers' are pre-monsoon showers that occur mainly over Rajasthan.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answerIndex": 0,
+      "explanation": "Statement 1 is correct: the Coromandel coast gets much of its rain from the retreating (north-east) monsoon. Statement 2 is incorrect: mango showers are pre-monsoon showers in Kerala and coastal Karnataka that help mangoes ripen."
+    },
+    {
+      "id": "upsc-prelims-p1-q08",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "Geography",
+      "topic": "World Geography",
+      "question": "The Strait of Malacca separates which of the following?",
+      "options": [
+        "Sri Lanka and India",
+        "Java and Borneo",
+        "Malay Peninsula and Sumatra",
+        "Arabian Peninsula and Africa"
+      ],
+      "answerIndex": 2,
+      "explanation": "The Strait of Malacca lies between the Malay Peninsula and the Indonesian island of Sumatra and links the Andaman Sea with the South China Sea. The Palk Strait separates India and Sri Lanka."
+    },
+    {
+      "id": "upsc-prelims-p1-q09",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "Polity & Governance",
+      "topic": "Fundamental Duties",
+      "question": "Consider the following statements:\n1. Fundamental Duties were added to the Constitution of India by the 42nd Constitutional Amendment Act, 1976.\n2. Fundamental Duties are directly enforceable through writs issued by the courts.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answerIndex": 0,
+      "explanation": "Statement 1 is correct: Part IV-A (Article 51A) was inserted in 1976 on the recommendation of the Swaran Singh Committee. Statement 2 is incorrect: Fundamental Duties are non-justiciable, and no writ lies merely for their violation."
+    },
+    {
+      "id": "upsc-prelims-p1-q10",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "Polity & Governance",
+      "topic": "Parliament",
+      "question": "Consider the following statements:\n1. The Rajya Sabha is a permanent body and is not subject to dissolution.\n2. A Money Bill can be introduced only in the Lok Sabha.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answerIndex": 2,
+      "explanation": "Both are correct. One-third of Rajya Sabha members retire every second year, but the House itself is never dissolved. Under Article 109, a Money Bill can be introduced only in the Lok Sabha, on the President's recommendation."
+    },
+    {
+      "id": "upsc-prelims-p1-q11",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "Polity & Governance",
+      "topic": "Fundamental Rights",
+      "question": "Which Article of the Constitution of India did Dr. B. R. Ambedkar describe as the 'heart and soul' of the Constitution?",
+      "options": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 32"
+      ],
+      "answerIndex": 3,
+      "explanation": "Article 32, the Right to Constitutional Remedies, lets a person move the Supreme Court directly to enforce Fundamental Rights. Ambedkar called it the very soul and heart of the Constitution."
+    },
+    {
+      "id": "upsc-prelims-p1-q12",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "Polity & Governance",
+      "topic": "Union Executive",
+      "question": "Consider the following statements:\n1. The electoral college for the election of the President of India includes the nominated members of both Houses of Parliament.\n2. The Vice-President of India is the ex-officio Chairman of the Rajya Sabha.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answerIndex": 1,
+      "explanation": "Statement 1 is incorrect: only elected members of both Houses of Parliament and of the State Legislative Assemblies (including Delhi and Puducherry) vote in the presidential election. Statement 2 is correct under Article 64."
+    },
+    {
+      "id": "upsc-prelims-p1-q13",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "Polity & Governance",
+      "topic": "Constitutional Bodies",
+      "question": "Which of the following are constitutional bodies?\n1. Election Commission of India\n2. Finance Commission\n3. NITI Aayog\nSelect the correct answer using the code given below:",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Election Commission (Article 324) and the Finance Commission (Article 280) are constitutional bodies. NITI Aayog was created in 2015 by an executive resolution of the Union Cabinet, so it is neither constitutional nor statutory."
+    },
+    {
+      "id": "upsc-prelims-p1-q14",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "Economy",
+      "topic": "Monetary Policy",
+      "question": "Consider the following statements:\n1. Repo rate is the rate at which the Reserve Bank of India lends short-term funds to commercial banks against government securities.\n2. An increase in the Cash Reserve Ratio (CRR) increases the funds available with banks for lending.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answerIndex": 0,
+      "explanation": "Statement 1 is correct. Statement 2 is incorrect: raising the CRR makes banks keep a larger share of deposits with the RBI, which reduces the money they can lend. That is why a CRR increase is a tightening (anti-inflationary) tool."
+    },
+    {
+      "id": "upsc-prelims-p1-q15",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "Economy",
+      "topic": "National Income",
+      "question": "Consider the following statements regarding Gross Domestic Product (GDP):\n1. GDP includes the value of intermediate goods in addition to final goods.\n2. Transfer payments such as old-age pensions are not included in GDP.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answerIndex": 1,
+      "explanation": "Statement 1 is incorrect: GDP counts only final goods and services, because counting intermediate goods would double count them. Statement 2 is correct: transfer payments are not payments for current production, so they are excluded."
+    },
+    {
+      "id": "upsc-prelims-p1-q16",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "Economy",
+      "topic": "Public Finance – Taxation",
+      "question": "Which one of the following is a direct tax?",
+      "options": [
+        "Goods and Services Tax",
+        "Customs duty",
+        "Corporation tax",
+        "Excise duty"
+      ],
+      "answerIndex": 2,
+      "explanation": "Corporation tax is levied on company profits and is paid by the company itself, so it is a direct tax. GST, customs and excise duties are indirect taxes, because the burden can be passed on to consumers."
+    },
+    {
+      "id": "upsc-prelims-p1-q17",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "Economy",
+      "topic": "Inflation",
+      "question": "The term 'stagflation' refers to a situation of:",
+      "options": [
+        "Falling prices along with rising output",
+        "High inflation along with rapid economic growth",
+        "Deflation along with full employment",
+        "High inflation along with stagnant output and high unemployment"
+      ],
+      "answerIndex": 3,
+      "explanation": "Stagflation combines stagnation (slow or no growth and high unemployment) with inflation. It is hard to tackle because fighting inflation can deepen the slowdown."
+    },
+    {
+      "id": "upsc-prelims-p1-q18",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "Environment & Science",
+      "topic": "Atmosphere & Climate",
+      "question": "Consider the following statements:\n1. The ozone layer that protects life from ultraviolet radiation lies mainly in the troposphere.\n2. Carbon monoxide is the most abundant greenhouse gas in the Earth's atmosphere.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answerIndex": 3,
+      "explanation": "Both are incorrect. The protective ozone layer lies mainly in the stratosphere, at roughly 15–35 km. The most abundant greenhouse gas is water vapour, and among long-lived gases it is carbon dioxide; carbon monoxide is not a significant greenhouse gas."
+    },
+    {
+      "id": "upsc-prelims-p1-q19",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "Environment & Science",
+      "topic": "International Conventions",
+      "question": "The Ramsar Convention is concerned with:",
+      "options": [
+        "Protection of the ozone layer",
+        "Conservation of wetlands",
+        "Trade in endangered species",
+        "Climate change"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Ramsar Convention (1971, signed at Ramsar, Iran) deals with the conservation and wise use of wetlands. The ozone layer is covered by the Vienna Convention and Montreal Protocol, and trade in endangered species by CITES."
+    },
+    {
+      "id": "upsc-prelims-p1-q20",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "Environment & Science",
+      "topic": "Health & Biology",
+      "question": "Consider the following statements:\n1. Antibiotics are effective in treating viral infections such as the common cold.\n2. Vaccines work by stimulating the body's immune system to develop protection against a specific disease.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answerIndex": 1,
+      "explanation": "Statement 1 is incorrect: antibiotics act on bacteria and do not work against viruses, and misusing them adds to antimicrobial resistance. Statement 2 is correct: vaccines prime the immune system to produce antibodies and memory cells."
+    },
+    {
+      "id": "upsc-prelims-p1-q21",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "Environment & Science",
+      "topic": "Biodiversity",
+      "question": "Which one of the following regions of India is part of a recognised global biodiversity hotspot?",
+      "options": [
+        "Thar Desert",
+        "Deccan Plateau",
+        "Indo-Gangetic Plain",
+        "Western Ghats"
+      ],
+      "answerIndex": 3,
+      "explanation": "India has parts of four global biodiversity hotspots: the Himalaya, Indo-Burma, the Western Ghats and Sri Lanka, and Sundaland (Nicobar Islands). The other regions listed are not hotspots."
+    },
+    {
+      "id": "upsc-prelims-p1-q22",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "CSAT",
+      "topic": "Number System",
+      "question": "How many integers between 1 and 100 are divisible by both 4 and 6?",
+      "options": [
+        "8",
+        "16",
+        "24",
+        "9"
+      ],
+      "answerIndex": 0,
+      "explanation": "A number divisible by both 4 and 6 is divisible by their LCM, 12. The multiples of 12 up to 100 are 12, 24, ..., 96, so there are 8 of them (100 ÷ 12 = 8 remainder 4)."
+    },
+    {
+      "id": "upsc-prelims-p1-q23",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "CSAT",
+      "topic": "Logical Reasoning",
+      "question": "If all A are B and no B is C, which one of the following must be true?",
+      "options": [
+        "Some A are C",
+        "No A is C",
+        "All C are A",
+        "Some C are B"
+      ],
+      "answerIndex": 1,
+      "explanation": "Every A lies inside B, and B has nothing in common with C, so no A can be C. The other options either contradict the statements or do not necessarily follow."
+    },
+    {
+      "id": "upsc-prelims-p1-q24",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "CSAT",
+      "topic": "Speed, Time & Distance",
+      "question": "A person travels from town X to town Y at 60 km/h and returns along the same route at 40 km/h. What is his average speed for the whole journey?",
+      "options": [
+        "50 km/h",
+        "52 km/h",
+        "48 km/h",
+        "45 km/h"
+      ],
+      "answerIndex": 2,
+      "explanation": "For equal distances, average speed = 2ab/(a + b) = (2 × 60 × 40)/100 = 48 km/h. The simple average of 50 km/h is wrong because more time is spent at the slower speed."
+    },
+    {
+      "id": "upsc-prelims-p1-q25",
+      "exam": "upsc-prelims",
+      "year": 2026,
+      "subject": "CSAT",
+      "topic": "Reading Comprehension",
+      "question": "Read the passage and answer the question.\nGroundwater in many districts is being drawn faster than rainfall can recharge it. Encouraged by free or very cheap electricity, farmers often pump water for water-intensive crops even in dry regions. Once aquifers are depleted, they may take decades to recover.\nWhich one of the following is the most logical inference from the passage?",
+      "options": [
+        "Groundwater depletion is caused only by farmers.",
+        "Rainfall in dry regions has increased in recent years.",
+        "Depleted aquifers recover fully within a single monsoon.",
+        "The pricing of electricity can influence the rate of groundwater extraction."
+      ],
+      "answerIndex": 3,
+      "explanation": "The passage links cheap or free power to heavy pumping, so electricity pricing affects how much groundwater is drawn. Option 1 is too extreme ('only'), option 2 is not supported by the passage, and option 3 contradicts the statement that recovery takes decades."
+    }
+  ]
+}

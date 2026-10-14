@@ -7,7 +7,22 @@
       "name": "SSC CGL",
       "fullName": "Staff Selection Commission – Combined Graduate Level",
       "papers": [
-        { "id": "demo-sample", "year": 2025, "title": "Demo practice set (original questions)", "path": "exams/demo/sample.json", "questionCount": 12, "demo": true }
+        {
+          "id": "ssc-cgl-practice-1",
+          "year": 2026,
+          "title": "SSC CGL Practice Set 1 (original questions)",
+          "path": "exams/ssc-cgl/practice-set-1.json",
+          "questionCount": 25,
+          "demo": true
+        },
+        {
+          "id": "demo-sample",
+          "year": 2025,
+          "title": "Demo practice set (original questions)",
+          "path": "exams/demo/sample.json",
+          "questionCount": 12,
+          "demo": true
+        }
       ]
     },
     {
@@ -15,7 +30,22 @@
       "name": "IBPS PO",
       "fullName": "Institute of Banking Personnel Selection – Probationary Officer",
       "papers": [
-        { "id": "demo-sample", "year": 2025, "title": "Demo practice set (original questions)", "path": "exams/demo/sample.json", "questionCount": 12, "demo": true }
+        {
+          "id": "ibps-po-practice-1",
+          "year": 2026,
+          "title": "IBPS PO Practice Set 1 (original questions)",
+          "path": "exams/ibps-po/practice-set-1.json",
+          "questionCount": 25,
+          "demo": true
+        },
+        {
+          "id": "demo-sample",
+          "year": 2025,
+          "title": "Demo practice set (original questions)",
+          "path": "exams/demo/sample.json",
+          "questionCount": 12,
+          "demo": true
+        }
       ]
     },
     {
@@ -23,7 +53,22 @@
       "name": "RRB NTPC",
       "fullName": "Railway Recruitment Board – Non-Technical Popular Categories",
       "papers": [
-        { "id": "demo-sample", "year": 2025, "title": "Demo practice set (original questions)", "path": "exams/demo/sample.json", "questionCount": 12, "demo": true }
+        {
+          "id": "rrb-ntpc-practice-1",
+          "year": 2026,
+          "title": "RRB NTPC Practice Set 1 (original questions)",
+          "path": "exams/rrb-ntpc/practice-set-1.json",
+          "questionCount": 25,
+          "demo": true
+        },
+        {
+          "id": "demo-sample",
+          "year": 2025,
+          "title": "Demo practice set (original questions)",
+          "path": "exams/demo/sample.json",
+          "questionCount": 12,
+          "demo": true
+        }
       ]
     },
     {
@@ -31,7 +76,22 @@
       "name": "UPSC Prelims",
       "fullName": "UPSC Civil Services Preliminary Examination",
       "papers": [
-        { "id": "demo-sample", "year": 2025, "title": "Demo practice set (original questions)", "path": "exams/demo/sample.json", "questionCount": 12, "demo": true }
+        {
+          "id": "upsc-prelims-practice-1",
+          "year": 2026,
+          "title": "UPSC Prelims Practice Set 1 (original questions)",
+          "path": "exams/upsc-prelims/practice-set-1.json",
+          "questionCount": 25,
+          "demo": true
+        },
+        {
+          "id": "demo-sample",
+          "year": 2025,
+          "title": "Demo practice set (original questions)",
+          "path": "exams/demo/sample.json",
+          "questionCount": 12,
+          "demo": true
+        }
       ]
     }
   ]

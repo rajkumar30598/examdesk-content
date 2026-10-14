@@ -1,0 +1,409 @@
+{
+  "id": "rrb-ntpc-practice-1",
+  "exam": "rrb-ntpc",
+  "year": 2026,
+  "title": "RRB NTPC Practice Set 1 (original questions)",
+  "demo": true,
+  "questions": [
+    {
+      "id": "rrb-ntpc-p1-q01",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "Mathematics",
+      "topic": "LCM & HCF",
+      "question": "What is the LCM of 12, 18 and 30?",
+      "options": [
+        "90",
+        "60",
+        "180",
+        "360"
+      ],
+      "answerIndex": 2,
+      "explanation": "12 = 2² × 3, 18 = 2 × 3² and 30 = 2 × 3 × 5. The LCM takes the highest power of each prime: 2² × 3² × 5 = 180."
+    },
+    {
+      "id": "rrb-ntpc-p1-q02",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "Mathematics",
+      "topic": "Number System",
+      "question": "What is the largest 4-digit number that is exactly divisible by 88?",
+      "options": [
+        "9988",
+        "9944",
+        "9900",
+        "9856"
+      ],
+      "answerIndex": 1,
+      "explanation": "9999 ÷ 88 leaves a remainder of 55 (88 × 113 = 9944). Largest number = 9999 − 55 = 9944. Shortcut: subtract the remainder from the largest 4-digit number."
+    },
+    {
+      "id": "rrb-ntpc-p1-q03",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "Mathematics",
+      "topic": "Simple Interest",
+      "question": "A sum of money doubles itself in 8 years at simple interest. What is the rate of interest per annum?",
+      "options": [
+        "10%",
+        "8%",
+        "12%",
+        "12.5%"
+      ],
+      "answerIndex": 3,
+      "explanation": "When the sum doubles, the interest equals the principal, so P = P × R × 8/100, which gives R = 100/8 = 12.5%. Shortcut: rate = 100 × (n − 1)/T for a sum that becomes n times in T years."
+    },
+    {
+      "id": "rrb-ntpc-p1-q04",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "Mathematics",
+      "topic": "Ages",
+      "question": "The ratio of the present ages of A and B is 4 : 5. After 6 years, the ratio will be 5 : 6. What is A's present age?",
+      "options": [
+        "24 years",
+        "20 years",
+        "30 years",
+        "18 years"
+      ],
+      "answerIndex": 0,
+      "explanation": "Let the ages be 4x and 5x. Then (4x + 6)/(5x + 6) = 5/6, so 24x + 36 = 25x + 30, which gives x = 6. A's age = 4 × 6 = 24 years."
+    },
+    {
+      "id": "rrb-ntpc-p1-q05",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "Mathematics",
+      "topic": "Discount",
+      "question": "Two successive discounts of 20% and 10% are equivalent to a single discount of:",
+      "options": [
+        "30%",
+        "25%",
+        "28%",
+        "32%"
+      ],
+      "answerIndex": 2,
+      "explanation": "Net discount = 20 + 10 − (20 × 10)/100 = 28%. Check: ₹100 becomes 80 after the first discount and 72 after the second, so the total discount is 28%, not 30%."
+    },
+    {
+      "id": "rrb-ntpc-p1-q06",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "Mathematics",
+      "topic": "Mensuration",
+      "question": "The total surface area of a cube is 216 cm². What is its volume?",
+      "options": [
+        "36 cm³",
+        "144 cm³",
+        "256 cm³",
+        "216 cm³"
+      ],
+      "answerIndex": 3,
+      "explanation": "Total surface area = 6a² = 216, so a² = 36 and a = 6 cm. Volume = a³ = 6³ = 216 cm³."
+    },
+    {
+      "id": "rrb-ntpc-p1-q07",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "Mathematics",
+      "topic": "Pipes & Cisterns",
+      "question": "Pipe A can fill a tank in 20 minutes and pipe B can empty the full tank in 30 minutes. If both pipes are opened together on an empty tank, how long will it take to fill the tank?",
+      "options": [
+        "60 minutes",
+        "50 minutes",
+        "12 minutes",
+        "40 minutes"
+      ],
+      "answerIndex": 0,
+      "explanation": "Net filling per minute = 1/20 − 1/30 = 3/60 − 2/60 = 1/60. So the tank fills in 60 minutes. Shortcut: (20 × 30)/(30 − 20) = 60."
+    },
+    {
+      "id": "rrb-ntpc-p1-q08",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "Mathematics",
+      "topic": "Statistics",
+      "question": "What is the median of the data: 7, 3, 9, 12, 5, 10?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "7.5"
+      ],
+      "answerIndex": 1,
+      "explanation": "Arranged in order, the data is 3, 5, 7, 9, 10, 12. There are 6 values (an even number), so the median is the average of the 3rd and 4th values: (7 + 9)/2 = 8."
+    },
+    {
+      "id": "rrb-ntpc-p1-q09",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Number Series",
+      "question": "Find the next term in the series: 2, 6, 12, 20, 30, ?",
+      "options": [
+        "40",
+        "44",
+        "42",
+        "36"
+      ],
+      "answerIndex": 2,
+      "explanation": "The differences are 4, 6, 8, 10, so the next difference is 12 and the next term is 30 + 12 = 42. Alternatively, the terms are n(n + 1): 1×2, 2×3, ..., 6×7 = 42."
+    },
+    {
+      "id": "rrb-ntpc-p1-q10",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Letter Series",
+      "question": "Find the next letter in the series: A, C, F, J, O, ?",
+      "options": [
+        "T",
+        "U",
+        "V",
+        "S"
+      ],
+      "answerIndex": 1,
+      "explanation": "The alphabet positions are 1, 3, 6, 10, 15, increasing by 2, 3, 4, 5. The next increase is 6, giving 15 + 6 = 21, which is U."
+    },
+    {
+      "id": "rrb-ntpc-p1-q11",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Analogy",
+      "question": "Doctor : Hospital :: Teacher : ?",
+      "options": [
+        "Student",
+        "Book",
+        "Class",
+        "School"
+      ],
+      "answerIndex": 3,
+      "explanation": "The relationship is professional : workplace. A doctor works in a hospital and a teacher works in a school."
+    },
+    {
+      "id": "rrb-ntpc-p1-q12",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Classification",
+      "question": "Find the odd one out:",
+      "options": [
+        "Moon",
+        "Mercury",
+        "Venus",
+        "Mars"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mercury, Venus and Mars are planets of the solar system. The Moon is a natural satellite of the Earth, not a planet."
+    },
+    {
+      "id": "rrb-ntpc-p1-q13",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Mathematical Operations",
+      "question": "If '+' means '×', '−' means '÷', '×' means '−' and '÷' means '+', what is the value of:\n18 − 3 + 4 ÷ 6 × 5",
+      "options": [
+        "23",
+        "25",
+        "29",
+        "19"
+      ],
+      "answerIndex": 1,
+      "explanation": "Replacing the symbols gives 18 ÷ 3 × 4 + 6 − 5. Using BODMAS: 18 ÷ 3 = 6, then 6 × 4 = 24, and 24 + 6 − 5 = 25."
+    },
+    {
+      "id": "rrb-ntpc-p1-q14",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Calendar",
+      "question": "If 1 January 2023 was a Sunday, what day of the week was 1 January 2024?",
+      "options": [
+        "Sunday",
+        "Tuesday",
+        "Monday",
+        "Saturday"
+      ],
+      "answerIndex": 2,
+      "explanation": "2023 is not a leap year, so it has 365 days, which is 52 weeks plus 1 odd day. The day therefore moves forward by one, from Sunday to Monday."
+    },
+    {
+      "id": "rrb-ntpc-p1-q15",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Clocks",
+      "question": "What is the angle between the hour hand and the minute hand of a clock at 3:40?",
+      "options": [
+        "120°",
+        "140°",
+        "150°",
+        "130°"
+      ],
+      "answerIndex": 3,
+      "explanation": "Angle = |30H − 5.5M| = |30 × 3 − 5.5 × 40| = |90 − 220| = 130°. The formula accounts for the hour hand moving 0.5° every minute."
+    },
+    {
+      "id": "rrb-ntpc-p1-q16",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Ranking & Order",
+      "question": "In a row of 40 students, Ramesh is 14th from the left end. What is his position from the right end?",
+      "options": [
+        "27th",
+        "26th",
+        "28th",
+        "25th"
+      ],
+      "answerIndex": 0,
+      "explanation": "Position from right = total − position from left + 1 = 40 − 14 + 1 = 27th. Forgetting the '+ 1' gives 26th, a common mistake."
+    },
+    {
+      "id": "rrb-ntpc-p1-q17",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "General Awareness",
+      "topic": "Indian Geography",
+      "question": "Which is the largest state of India by area?",
+      "options": [
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "answerIndex": 2,
+      "explanation": "Rajasthan is the largest state by area, followed by Madhya Pradesh and Maharashtra. Uttar Pradesh is the largest by population."
+    },
+    {
+      "id": "rrb-ntpc-p1-q18",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "General Awareness",
+      "topic": "Indian Railways",
+      "question": "The first passenger train in India ran on 16 April 1853 between which two places?",
+      "options": [
+        "Howrah and Hooghly",
+        "Bombay (Bori Bunder) and Thane",
+        "Madras and Arcot",
+        "Delhi and Agra"
+      ],
+      "answerIndex": 1,
+      "explanation": "India's first passenger train ran about 34 km from Bori Bunder (Bombay) to Thane on 16 April 1853. The first passenger train in eastern India, between Howrah and Hooghly, followed in 1854."
+    },
+    {
+      "id": "rrb-ntpc-p1-q19",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "General Awareness",
+      "topic": "General Science",
+      "question": "Which gas is the most abundant in the Earth's atmosphere?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Argon",
+        "Nitrogen"
+      ],
+      "answerIndex": 3,
+      "explanation": "Nitrogen makes up about 78% of the atmosphere by volume, oxygen about 21% and argon about 0.9%. Carbon dioxide is only about 0.04%."
+    },
+    {
+      "id": "rrb-ntpc-p1-q20",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "General Awareness",
+      "topic": "Biology",
+      "question": "Which cell organelle is known as the 'powerhouse of the cell'?",
+      "options": [
+        "Mitochondria",
+        "Ribosome",
+        "Nucleus",
+        "Golgi apparatus"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mitochondria carry out cellular respiration and produce energy in the form of ATP, which is why they are called the powerhouse of the cell. Ribosomes make proteins."
+    },
+    {
+      "id": "rrb-ntpc-p1-q21",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "General Awareness",
+      "topic": "Indian Polity",
+      "question": "Who is the Supreme Commander of the Armed Forces of India?",
+      "options": [
+        "Prime Minister",
+        "President",
+        "Defence Minister",
+        "Chief of Defence Staff"
+      ],
+      "answerIndex": 1,
+      "explanation": "Under Article 53(2) of the Constitution, the supreme command of the Defence Forces is vested in the President of India."
+    },
+    {
+      "id": "rrb-ntpc-p1-q22",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "General Awareness",
+      "topic": "Modern Indian History",
+      "question": "In which year did Mahatma Gandhi lead the Dandi March (Salt Satyagraha)?",
+      "options": [
+        "1920",
+        "1942",
+        "1919",
+        "1930"
+      ],
+      "answerIndex": 3,
+      "explanation": "The Dandi March began from Sabarmati Ashram on 12 March 1930 and reached Dandi on 6 April 1930, launching the Civil Disobedience Movement. 1920 is the Non-Cooperation Movement and 1942 is the Quit India Movement."
+    },
+    {
+      "id": "rrb-ntpc-p1-q23",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "General Awareness",
+      "topic": "Indian Geography",
+      "question": "The Tropic of Cancer does NOT pass through which of the following states?",
+      "options": [
+        "Rajasthan",
+        "Jharkhand",
+        "Odisha",
+        "Mizoram"
+      ],
+      "answerIndex": 2,
+      "explanation": "The Tropic of Cancer passes through eight states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram. Odisha lies entirely south of it."
+    },
+    {
+      "id": "rrb-ntpc-p1-q24",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "General Awareness",
+      "topic": "Chemistry",
+      "question": "What is the pH value of pure water at 25°C?",
+      "options": [
+        "7",
+        "5",
+        "14",
+        "0"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pure water is neutral and has a pH of 7 at 25°C. A pH below 7 is acidic and a pH above 7 is basic (alkaline)."
+    },
+    {
+      "id": "rrb-ntpc-p1-q25",
+      "exam": "rrb-ntpc",
+      "year": 2026,
+      "subject": "General Awareness",
+      "topic": "Sports",
+      "question": "The Durand Cup is associated with which sport?",
+      "options": [
+        "Hockey",
+        "Football",
+        "Cricket",
+        "Badminton"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Durand Cup is a football tournament first held in 1888 and is one of the oldest football competitions in the world."
+    }
+  ]
+}

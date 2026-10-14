@@ -1,0 +1,409 @@
+{
+  "id": "ibps-po-practice-1",
+  "exam": "ibps-po",
+  "year": 2026,
+  "title": "IBPS PO Practice Set 1 (original questions)",
+  "demo": true,
+  "questions": [
+    {
+      "id": "ibps-po-p1-q01",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "Quantitative Aptitude",
+      "topic": "Simplification",
+      "question": "What value should come in place of the question mark (?)\n35% of 480 + 18 × 12 − ? = 300",
+      "options": [
+        "74",
+        "84",
+        "94",
+        "64"
+      ],
+      "answerIndex": 1,
+      "explanation": "35% of 480 = 168 and 18 × 12 = 216, so the left side is 168 + 216 − ? = 384 − ?. Setting 384 − ? = 300 gives ? = 84."
+    },
+    {
+      "id": "ibps-po-p1-q02",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "Quantitative Aptitude",
+      "topic": "Compound Interest",
+      "question": "What is the compound interest on ₹10,000 at 10% per annum for 2 years, compounded annually?",
+      "options": [
+        "₹2,000",
+        "₹2,200",
+        "₹2,100",
+        "₹2,110"
+      ],
+      "answerIndex": 2,
+      "explanation": "Amount = 10000 × (1.1)² = ₹12,100, so CI = ₹2,100. Shortcut: for 2 years, CI = SI + interest on interest = 2000 + 10% of 1000 = ₹2,100."
+    },
+    {
+      "id": "ibps-po-p1-q03",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "Quantitative Aptitude",
+      "topic": "Profit & Loss",
+      "question": "By selling an article for ₹1,380, a trader gains 15%. At what price should he sell it to gain 25%?",
+      "options": [
+        "₹1,450",
+        "₹1,525",
+        "₹1,600",
+        "₹1,500"
+      ],
+      "answerIndex": 3,
+      "explanation": "CP = 1380 ÷ 1.15 = ₹1,200. For a 25% gain, SP = 1200 × 1.25 = ₹1,500. Shortcut: required SP = 1380 × 125/115 = ₹1,500."
+    },
+    {
+      "id": "ibps-po-p1-q04",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "Quantitative Aptitude",
+      "topic": "Quadratic Equations",
+      "question": "In the following question, two equations I and II are given. Solve both and find the relationship between x and y.\nI. x² − 7x + 12 = 0\nII. y² − 9y + 20 = 0",
+      "options": [
+        "x ≤ y",
+        "x > y",
+        "x < y",
+        "x ≥ y"
+      ],
+      "answerIndex": 0,
+      "explanation": "I factorises as (x − 3)(x − 4) = 0, so x = 3 or 4. II factorises as (y − 4)(y − 5) = 0, so y = 4 or 5. Comparing every pair, x is always less than or equal to y (they are equal when x = y = 4), so x ≤ y."
+    },
+    {
+      "id": "ibps-po-p1-q05",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "Quantitative Aptitude",
+      "topic": "Data Interpretation",
+      "question": "The sales (in thousand units) of a company over five years are: 2019 – 240, 2020 – 300, 2021 – 270, 2022 – 360, 2023 – 330. What is the percentage increase in sales from 2021 to 2022?",
+      "options": [
+        "30%",
+        "25%",
+        "33.33%",
+        "90%"
+      ],
+      "answerIndex": 2,
+      "explanation": "Increase = 360 − 270 = 90 thousand units. Percentage increase = 90/270 × 100 = 33.33%. A common mistake is dividing by the new value (90/360 = 25%), but percentage change is always calculated on the old value."
+    },
+    {
+      "id": "ibps-po-p1-q06",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "Quantitative Aptitude",
+      "topic": "Boats & Streams",
+      "question": "A boat covers 36 km downstream in 2 hours and the same distance upstream in 3 hours. What is the speed of the boat in still water?",
+      "options": [
+        "15 km/h",
+        "12 km/h",
+        "18 km/h",
+        "3 km/h"
+      ],
+      "answerIndex": 0,
+      "explanation": "Downstream speed = 36/2 = 18 km/h and upstream speed = 36/3 = 12 km/h. Boat speed = (18 + 12)/2 = 15 km/h, and stream speed = (18 − 12)/2 = 3 km/h."
+    },
+    {
+      "id": "ibps-po-p1-q07",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "Quantitative Aptitude",
+      "topic": "Probability",
+      "question": "A bag contains 5 red and 3 blue balls. Two balls are drawn at random without replacement. What is the probability that both balls are red?",
+      "options": [
+        "25/64",
+        "5/16",
+        "3/14",
+        "5/14"
+      ],
+      "answerIndex": 3,
+      "explanation": "P = 5C2 / 8C2 = 10/28 = 5/14. You can also multiply step by step: 5/8 × 4/7 = 20/56 = 5/14. 25/64 is wrong because it assumes the first ball is replaced."
+    },
+    {
+      "id": "ibps-po-p1-q08",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "Reasoning Ability",
+      "topic": "Syllogism",
+      "question": "Statements:\nAll pens are books.\nSome books are tables.\nConclusions:\nI. Some pens are tables.\nII. Some tables are books.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both I and II follow",
+        "Neither I nor II follows"
+      ],
+      "answerIndex": 1,
+      "explanation": "'Some books are tables' can be reversed to 'Some tables are books', so II follows. The tables that are books need not include any pens, so 'Some pens are tables' is only a possibility and I does not follow."
+    },
+    {
+      "id": "ibps-po-p1-q09",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "Reasoning Ability",
+      "topic": "Inequality",
+      "question": "Statements: P > Q ≥ R = S < T\nConclusions:\nI. P > S\nII. T > R",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both I and II follow",
+        "Neither I nor II follows"
+      ],
+      "answerIndex": 2,
+      "explanation": "From P > Q ≥ R = S, we get P > S, so I follows. From R = S < T, we get T > R, so II follows. So both conclusions follow."
+    },
+    {
+      "id": "ibps-po-p1-q10",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "Reasoning Ability",
+      "topic": "Seating Arrangement",
+      "question": "Five friends A, B, C, D and E sit in a row facing north. C sits exactly in the middle. A sits immediately to the left of C. E sits at one of the extreme ends but is not an immediate neighbour of A. B does not sit at any extreme end. Who sits at the extreme left end?",
+      "options": [
+        "B",
+        "E",
+        "A",
+        "D"
+      ],
+      "answerIndex": 3,
+      "explanation": "Number the seats 1 to 5 from left to right. C is at 3 and A is at 2. E cannot be at 1 because that is next to A, so E is at 5. B is not at an end, so B takes seat 4, which leaves D at seat 1 (the extreme left)."
+    },
+    {
+      "id": "ibps-po-p1-q11",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "Reasoning Ability",
+      "topic": "Coding-Decoding",
+      "question": "In a certain code language:\n'sky is blue' is written as 'ta mo ri',\n'blue and green' is written as 'ri ke lu',\n'green sky above' is written as 'lu ta pe'.\nWhat is the code for 'is'?",
+      "options": [
+        "mo",
+        "ta",
+        "ri",
+        "ke"
+      ],
+      "answerIndex": 0,
+      "explanation": "'blue' is common to the first two sentences, so blue = ri. 'green' is common to the last two, so green = lu, and 'sky' is common to the first and third, so sky = ta. In 'sky is blue', the only code left is 'mo', so is = mo."
+    },
+    {
+      "id": "ibps-po-p1-q12",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "Reasoning Ability",
+      "topic": "Blood Relations",
+      "question": "If 'A + B' means A is the father of B, 'A − B' means A is the wife of B, and 'A × B' means A is the brother of B, then in the expression P + Q − R, how is P related to R?",
+      "options": [
+        "Father",
+        "Brother-in-law",
+        "Father-in-law",
+        "Son-in-law"
+      ],
+      "answerIndex": 2,
+      "explanation": "P + Q means P is the father of Q. Q − R means Q is the wife of R. So P is the father of R's wife, which makes P R's father-in-law."
+    },
+    {
+      "id": "ibps-po-p1-q13",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "Reasoning Ability",
+      "topic": "Number Series (Wrong Number)",
+      "question": "Find the wrong number in the series: 5, 11, 23, 47, 96, 191",
+      "options": [
+        "11",
+        "47",
+        "191",
+        "96"
+      ],
+      "answerIndex": 3,
+      "explanation": "The pattern is ×2 + 1: 5 → 11 → 23 → 47 → 95 → 191. The fifth term should be 47 × 2 + 1 = 95, not 96. Note that 95 × 2 + 1 = 191 confirms that the next term fits the pattern."
+    },
+    {
+      "id": "ibps-po-p1-q14",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "Reasoning Ability",
+      "topic": "Alphabet Test",
+      "question": "How many pairs of letters are there in the word BRIGHT, each of which has as many letters between them in the word as there are between them in the English alphabet (in either direction)?",
+      "options": [
+        "None",
+        "One",
+        "Two",
+        "Three"
+      ],
+      "answerIndex": 1,
+      "explanation": "Alphabet positions: B = 2, R = 18, I = 9, G = 7, H = 8, T = 20. Only G and H qualify: they are adjacent in the word and adjacent in the alphabet. No other pair has matching gaps, so there is exactly one pair."
+    },
+    {
+      "id": "ibps-po-p1-q15",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "English Language",
+      "topic": "Error Detection",
+      "question": "Identify the segment that contains a grammatical error.\nEach of the students / have submitted / the assignment / on time.",
+      "options": [
+        "Each of the students",
+        "have submitted",
+        "the assignment",
+        "on time"
+      ],
+      "answerIndex": 1,
+      "explanation": "The subject 'Each' is singular, so the verb must be singular: 'has submitted'. Shortcut: each, every, either and neither take singular verbs, even when followed by 'of + plural noun'."
+    },
+    {
+      "id": "ibps-po-p1-q16",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "English Language",
+      "topic": "Fill in the Blanks",
+      "question": "Choose the most appropriate word to fill in the blank.\nThe committee decided to ______ the proposal until more data became available.",
+      "options": [
+        "differ",
+        "infer",
+        "refer",
+        "defer"
+      ],
+      "answerIndex": 3,
+      "explanation": "'Defer' means to postpone, which fits 'until more data became available'. 'Differ' means to disagree or be unlike, 'infer' means to conclude, and 'refer' means to direct to someone."
+    },
+    {
+      "id": "ibps-po-p1-q17",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "English Language",
+      "topic": "Grammar (Conjunctions)",
+      "question": "Choose the most appropriate word to fill in the blank.\nHardly had he reached the station ______ the train left.",
+      "options": [
+        "than",
+        "then",
+        "when",
+        "that"
+      ],
+      "answerIndex": 2,
+      "explanation": "'Hardly' and 'scarcely' are followed by 'when' (or 'before'), whereas 'no sooner' is followed by 'than'. So the correct sentence is: Hardly had he reached the station when the train left."
+    },
+    {
+      "id": "ibps-po-p1-q18",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "English Language",
+      "topic": "Vocabulary in Context",
+      "question": "Choose the word most similar in meaning to the word in capitals as used in the sentence.\nThe manager's CANDID remarks surprised the team.",
+      "options": [
+        "frank",
+        "rude",
+        "hidden",
+        "polite"
+      ],
+      "answerIndex": 0,
+      "explanation": "Candid means open, honest and straightforward, so the closest meaning is frank. Candid remarks are not necessarily rude, and 'hidden' is the opposite."
+    },
+    {
+      "id": "ibps-po-p1-q19",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "English Language",
+      "topic": "Para Jumbles",
+      "question": "Rearrange the following sentences to form a coherent paragraph.\nP. As a result, many people now save regularly.\nQ. Banks began offering simple savings accounts in rural areas.\nR. Earlier, villagers kept their money at home.\nS. This made it easy to deposit even small amounts.",
+      "options": [
+        "QRSP",
+        "RQSP",
+        "RSQP",
+        "QSRP"
+      ],
+      "answerIndex": 1,
+      "explanation": "R starts the paragraph by describing the past ('Earlier'). Q describes the change, S ('This made it easy') explains the effect of Q, and P ('As a result') gives the outcome. So the order is RQSP."
+    },
+    {
+      "id": "ibps-po-p1-q20",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "English Language",
+      "topic": "Antonyms",
+      "question": "Choose the word most opposite in meaning to: FRUGAL",
+      "options": [
+        "Thrifty",
+        "Careful",
+        "Modest",
+        "Extravagant"
+      ],
+      "answerIndex": 3,
+      "explanation": "Frugal means economical, or sparing with money. Its opposite is extravagant (spending too much). Thrifty is a synonym of frugal."
+    },
+    {
+      "id": "ibps-po-p1-q21",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "General & Banking Awareness",
+      "topic": "Banking Institutions",
+      "question": "Where is the central office (headquarters) of the Reserve Bank of India located?",
+      "options": [
+        "Mumbai",
+        "New Delhi",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answerIndex": 0,
+      "explanation": "The RBI's central office has been in Mumbai since 1937. It was first set up in Calcutta (Kolkata) in 1935, which is why Kolkata is a common wrong answer."
+    },
+    {
+      "id": "ibps-po-p1-q22",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "General & Banking Awareness",
+      "topic": "Banking Institutions",
+      "question": "In which year was NABARD (National Bank for Agriculture and Rural Development) established?",
+      "options": [
+        "1969",
+        "1975",
+        "1982",
+        "1991"
+      ],
+      "answerIndex": 2,
+      "explanation": "NABARD was established on 12 July 1982, on the recommendation of the Shivaraman Committee (CRAFICARD). It took over the agricultural credit functions of the RBI. 1975 is the year Regional Rural Banks were set up."
+    },
+    {
+      "id": "ibps-po-p1-q23",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "General & Banking Awareness",
+      "topic": "Banking Terms",
+      "question": "A cheque that bears a date later than the date on which it is actually issued is called a:",
+      "options": [
+        "Stale cheque",
+        "Post-dated cheque",
+        "Bearer cheque",
+        "Crossed cheque"
+      ],
+      "answerIndex": 1,
+      "explanation": "A post-dated cheque carries a future date and cannot be paid before that date. A stale cheque is one presented after its validity period (3 months from the date of issue)."
+    },
+    {
+      "id": "ibps-po-p1-q24",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "General & Banking Awareness",
+      "topic": "Payment Systems",
+      "question": "What is the full form of NEFT?",
+      "options": [
+        "National Electronic Funds Transfer",
+        "National Electronic Fund Transaction",
+        "Net Electronic Funds Transfer",
+        "National E-banking Funds Transfer"
+      ],
+      "answerIndex": 0,
+      "explanation": "NEFT stands for National Electronic Funds Transfer. It is an RBI-run system for transferring funds from one bank account to another."
+    },
+    {
+      "id": "ibps-po-p1-q25",
+      "exam": "ibps-po",
+      "year": 2026,
+      "subject": "General & Banking Awareness",
+      "topic": "Currency",
+      "question": "Who signs the currency notes of denominations of ₹2 and above in India?",
+      "options": [
+        "Finance Minister",
+        "Finance Secretary",
+        "Governor of RBI",
+        "Chairman of SBI"
+      ],
+      "answerIndex": 2,
+      "explanation": "Notes of ₹2 and above are issued by the RBI and signed by its Governor. The ₹1 note is issued by the Government of India and signed by the Finance Secretary."
+    }
+  ]
+}
