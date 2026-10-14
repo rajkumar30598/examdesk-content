@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "updated": "2026-10-14",
+  "exams": [
+    {
+      "id": "ssc-cgl",
+      "name": "SSC CGL",
+      "fullName": "Staff Selection Commission – Combined Graduate Level",
+      "papers": [
+        { "id": "demo-sample", "year": 2025, "title": "Demo practice set (original questions)", "path": "exams/demo/sample.json", "questionCount": 12, "demo": true }
+      ]
+    },
+    {
+      "id": "ibps-po",
+      "name": "IBPS PO",
+      "fullName": "Institute of Banking Personnel Selection – Probationary Officer",
+      "papers": [
+        { "id": "demo-sample", "year": 2025, "title": "Demo practice set (original questions)", "path": "exams/demo/sample.json", "questionCount": 12, "demo": true }
+      ]
+    },
+    {
+      "id": "rrb-ntpc",
+      "name": "RRB NTPC",
+      "fullName": "Railway Recruitment Board – Non-Technical Popular Categories",
+      "papers": [
+        { "id": "demo-sample", "year": 2025, "title": "Demo practice set (original questions)", "path": "exams/demo/sample.json", "questionCount": 12, "demo": true }
+      ]
+    },
+    {
+      "id": "upsc-prelims",
+      "name": "UPSC Prelims",
+      "fullName": "UPSC Civil Services Preliminary Examination",
+      "papers": [
+        { "id": "demo-sample", "year": 2025, "title": "Demo practice set (original questions)", "path": "exams/demo/sample.json", "questionCount": 12, "demo": true }
+      ]
+    }
+  ]
+}

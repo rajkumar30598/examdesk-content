@@ -1,0 +1,141 @@
+{
+  "id": "demo-sample",
+  "exam": "demo",
+  "year": 2025,
+  "title": "Demo practice set (original questions)",
+  "demo": true,
+  "questions": [
+    {
+      "id": "demo-q01",
+      "exam": "demo",
+      "year": 2025,
+      "subject": "Quantitative Aptitude",
+      "topic": "Profit & Loss",
+      "question": "A shopkeeper marks an article 25% above its cost price and then gives a discount of 12% on the marked price. What is his profit percentage?",
+      "options": ["8%", "10%", "12%", "13%"],
+      "answerIndex": 1,
+      "explanation": "Let CP = 100. Marked price = 125. After a 12% discount, SP = 125 × 0.88 = 110. Profit = 10 on 100, so 10%. Shortcut: net effect = 25 − 12 − (25 × 12)/100 = 10%."
+    },
+    {
+      "id": "demo-q02",
+      "exam": "demo",
+      "year": 2025,
+      "subject": "Quantitative Aptitude",
+      "topic": "Time, Speed & Distance",
+      "question": "A train 240 m long passes a signal pole in 12 seconds. What is the speed of the train in km/h?",
+      "options": ["60 km/h", "66 km/h", "72 km/h", "80 km/h"],
+      "answerIndex": 2,
+      "explanation": "To pass a pole, the train covers its own length. Speed = 240 ÷ 12 = 20 m/s. Convert: 20 × 18/5 = 72 km/h."
+    },
+    {
+      "id": "demo-q03",
+      "exam": "demo",
+      "year": 2025,
+      "subject": "Quantitative Aptitude",
+      "topic": "Simple Interest",
+      "question": "What is the simple interest on ₹8,000 at 6% per annum for 3 years?",
+      "options": ["₹1,240", "₹1,440", "₹1,520", "₹1,600"],
+      "answerIndex": 1,
+      "explanation": "SI = P × R × T / 100 = 8000 × 6 × 3 / 100 = ₹1,440."
+    },
+    {
+      "id": "demo-q04",
+      "exam": "demo",
+      "year": 2025,
+      "subject": "Reasoning",
+      "topic": "Number Series",
+      "question": "Find the next number in the series: 3, 7, 15, 31, 63, ?",
+      "options": ["125", "126", "127", "128"],
+      "answerIndex": 2,
+      "explanation": "Each term is (previous × 2) + 1: 3→7→15→31→63→127."
+    },
+    {
+      "id": "demo-q05",
+      "exam": "demo",
+      "year": 2025,
+      "subject": "Reasoning",
+      "topic": "Coding-Decoding",
+      "question": "If CAT is coded as DBU, how is DOG coded in the same language?",
+      "options": ["EPH", "EOH", "DPH", "FQI"],
+      "answerIndex": 0,
+      "explanation": "Each letter moves one step forward: C→D, A→B, T→U. So D→E, O→P, G→H gives EPH."
+    },
+    {
+      "id": "demo-q06",
+      "exam": "demo",
+      "year": 2025,
+      "subject": "Reasoning",
+      "topic": "Direction Sense",
+      "question": "Ravi walks 5 km towards North, turns right and walks 3 km, then turns right again and walks 5 km. How far and in which direction is he from his starting point?",
+      "options": ["3 km West", "5 km North", "8 km East", "3 km East"],
+      "answerIndex": 3,
+      "explanation": "North 5 km, right turn = East 3 km, right turn = South 5 km. The North and South legs cancel, leaving him 3 km East of the start."
+    },
+    {
+      "id": "demo-q07",
+      "exam": "demo",
+      "year": 2025,
+      "subject": "English",
+      "topic": "Synonyms",
+      "question": "Choose the word most similar in meaning to CANDID.",
+      "options": ["Secretive", "Frank", "Cautious", "Rude"],
+      "answerIndex": 1,
+      "explanation": "Candid means open and honest in what one says — the same as frank."
+    },
+    {
+      "id": "demo-q08",
+      "exam": "demo",
+      "year": 2025,
+      "subject": "English",
+      "topic": "Antonyms",
+      "question": "Choose the word opposite in meaning to SCARCE.",
+      "options": ["Rare", "Limited", "Abundant", "Meagre"],
+      "answerIndex": 2,
+      "explanation": "Scarce means in short supply. Its opposite is abundant (plentiful). Rare, limited and meagre are close synonyms."
+    },
+    {
+      "id": "demo-q09",
+      "exam": "demo",
+      "year": 2025,
+      "subject": "English",
+      "topic": "Fill in the Blanks",
+      "question": "She has been working at this office ___ 2019.",
+      "options": ["for", "since", "from", "by"],
+      "answerIndex": 1,
+      "explanation": "With the present perfect continuous, use 'since' for a point in time (2019) and 'for' for a duration (five years)."
+    },
+    {
+      "id": "demo-q10",
+      "exam": "demo",
+      "year": 2025,
+      "subject": "General Awareness",
+      "topic": "Indian Polity",
+      "question": "Which Article of the Constitution of India abolishes untouchability?",
+      "options": ["Article 14", "Article 17", "Article 21", "Article 32"],
+      "answerIndex": 1,
+      "explanation": "Article 17 abolishes untouchability and forbids its practice in any form. Article 14 is equality before law, 21 is protection of life and liberty, and 32 is the right to constitutional remedies."
+    },
+    {
+      "id": "demo-q11",
+      "exam": "demo",
+      "year": 2025,
+      "subject": "General Awareness",
+      "topic": "Geography",
+      "question": "The Tropic of Cancer passes through how many Indian states?",
+      "options": ["6", "7", "8", "9"],
+      "answerIndex": 2,
+      "explanation": "Eight states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram. Memory hook (west to east): 'Gujju Raja Madhya Chhattis Jhar Bengal Tripura Mizo'."
+    },
+    {
+      "id": "demo-q12",
+      "exam": "demo",
+      "year": 2025,
+      "subject": "General Awareness",
+      "topic": "General Science",
+      "question": "Which gas makes up the largest share of the Earth's atmosphere by volume?",
+      "options": ["Oxygen", "Carbon dioxide", "Argon", "Nitrogen"],
+      "answerIndex": 3,
+      "explanation": "Nitrogen is about 78% of dry air by volume, oxygen about 21%, argon about 0.9%, and carbon dioxide about 0.04%."
+    }
+  ]
+}
